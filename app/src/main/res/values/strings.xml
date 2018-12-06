@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fls360</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_registration_now">Create Account</string>
+    <string name="pref_file">com.abc.performance_file</string>
+    <string name="pref_login_status">com.abc.performance_login_status</string>
+    <string name="pref_user_name">com.abc.performance_login_user_name</string>
+</resources>
